@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MisterMatStone
-- 👀 I’m interested in 3D Printing, MPCNC and K40 Lasercutting
-- 🌱 I’m currently learning everything about K40
+- 👀 I’m interested in 3D Printing, MPCNC and Lasercutting
+- 🌱 I’m currently learning everything about KI-Tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
